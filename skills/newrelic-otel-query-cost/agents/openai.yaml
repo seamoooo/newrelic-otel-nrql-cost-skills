@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Relic OpenTelemetry NRQL Cost Optimization"
+  short_description: "OTLP送信のNRQLコストと結果同等性を評価する"
+  default_prompt: "$newrelic-otel-query-cost を使い、このNRQLの実行コストと結果同等性を評価してください。"
